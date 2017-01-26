@@ -1,0 +1,44 @@
+body {
+  background-color: darkred;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+
+}
+
+.sections div {
+  width: 800px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+
+  background-color: white;
+
+
+}
+#header {
+  height: 100px;
+  text-align: center;
+  font-family: arial sans-serif;
+  background-color: white
+
+}
+h1 {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-family: arial sans-serif bold;
+  background-color: white
+}
+
+#weather {
+  height: auto;
+  font-family: arial sans-serif bold;
+
+}
+
+#weather  {
+
+}
